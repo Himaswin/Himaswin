@@ -1,10 +1,10 @@
-# ✨ Himaswin
-
-<p align="left">
+# ✨ Himaswin  <p align="left">
     <a href="https://www.linkedin.com/in/himaswinpolaboyena/">
         <img src="LI-Logo.png" alt="LinkedIn Profile" title="Look at my Profile">
     </a>
 </p>
+
+
 
 **Software Development**
 
