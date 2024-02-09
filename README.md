@@ -1,4 +1,4 @@
-# ✨ Himaswin  [<img src="LI-Logo.png" alt="LinkedIn Profile" width="20px">](https://www.linkedin.com/in/himaswinpolaboyena/)
+# ✨ Himaswin  [<img src="LI-Logo.png" alt="LinkedIn Profile" width="40px">](https://www.linkedin.com/in/himaswinpolaboyena/)
 
 
 
