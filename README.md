@@ -1,14 +1,14 @@
-# ✨ Himaswin
+# ✨ Himaswin <p align="left">
+    <a href="https://www.linkedin.com/in/himaswinpolaboyena/">
+        <img src="LI-Logo.png" alt="LinkedIn Profile" title="Look at my Profile">
+    </a>
+</p>
 
 ** Software Development **
 
 I'm a Computer Science programmer at the University of Windsor. I'm currently in my 4th year of my studies. I worked on multiple projects during my school years and learned multiple languages, Now I'm excited to contribute my skills in real world projects.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/himaswinpolaboyena/">
-        <img src="LI-Logo.png" alt="LinkedIn Profile" title="Look at my Profile">
-    </a>
-</p>
+
 ---
 ### Languages and Tools
 
