@@ -1,7 +1,7 @@
 # ✨ Himaswin  [<img src="LI-Logo.png" alt="LinkedIn Profile" width="90px">](https://www.linkedin.com/in/himaswinpolaboyena/)
 
 
-
+AI intern @Glendor Inc
 
 **Software Development**
 
