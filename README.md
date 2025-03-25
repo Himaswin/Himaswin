@@ -5,7 +5,7 @@ AI intern @Glendor Inc
 
 **Software Development**
 
-I'm a Computer Science programmer at the University of Windsor. I'm currently in my 4th year of my studies. I worked on multiple projects during my school years and learned multiple languages. Now I'm excited to contribute my skills in real-world projects.
+I'm a Computer Science student at the University of Windsor. I'm a new grad. During my school years, I worked on multiple projects and learned multiple languages. Now, I'm excited to contribute my skills to real-world projects.
 
 ---
 
