@@ -1,62 +1,95 @@
+# Hi there! I'm Himaswin ✨ 👋
 
+_AI Intern @ Glendor Inc_  
+_Software Engineer | Computer Science Graduate_  
 
----
-
-# ✨ Himaswin [<img src="LI-Logo.png" alt="LinkedIn Profile" width="90px">](https://www.linkedin.com/in/himaswinpolaboyena/)
-
-**AI Intern @ Glendor Inc**
-**Software Engineer | Computer Science Graduate**
+![Profile Views](https://komarev.com/ghpvc/?username=himaswin&color=blueviolet&style=flat-square)
 
 ---
 
-### 👋 About Me
-
-I’m a Computer Science graduate from the University of Windsor with a specialization in AI and Mathematics.
-Throughout my academic and professional journey, I’ve worked on multiple projects spanning C++, Python, AI/ML, and web technologies.
-I enjoy building practical systems, solving challenging problems, and bringing ideas to life through software.
+## 📊 GitHub Contributions
+![Himaswin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himaswin&theme=react-dark&hide_border=true)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🏆 GitHub Statistics
+| Stats | |
+|-------|--|
+| ⭐ **Total Stars:** 5 | 🔄 **2025 Commits:** 20+ |
+| 🔀 **PRs:** 3 | 🐛 **Issues:** 5 |
+| 📂 **Contributed to:** 8 |
 
+![Himaswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=himaswin&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+## 📈 Top Languages
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=himaswin&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🎓 About Me
+I’m a Computer Science graduate from the **University of Windsor**, specializing in **Artificial Intelligence & Mathematics**.  
+I have hands-on experience with **C++, Python, Go, Rust, and AI/ML frameworks**.  
+My interests span **AI, software systems, embedded programming, and full-stack development**.  
+
+🚀 I enjoy solving problems, optimizing systems, and working on projects that make a real impact.  
+
+---
+
+## 💡 Notable Achievements
+- 🖥️ Developed **RIWA-2 system modules** at Tessonics Inc.  
+- ⚡ Packaged **TensorFlow, OpenCV, Dockerized modules** into Debian builds.  
+- 🤖 Built **AI Grading Assistant** (Django + React) with auto-evaluation.  
+- 📊 Created **Insurance Risk Prediction Model** (Python, ML).  
+- 🎬 Working on **Rust film simulation CLI (grainy)** for photographers.  
+
+---
+
+## 🔧 Technical Arsenal
+
+### Programming Languages & Core
 <p>
-<img alt="C++" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img alt="Node.js" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img alt="Docker" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img alt="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img alt="CSS3" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img alt="Blender" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40px"/>
+</p>
+
+### Web Development
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
+</p>
+
+### Tools & Databases
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+</p>
+
+### AI & Data Science
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px"/>
 </p>
 
 ---
 
-### 📬 Contact
-
-* 📧 Email: **[himaswinpolaboyena@gmail.com](mailto:himaswinpolaboyena@gmail.com)**
-* 💼 [LinkedIn](https://www.linkedin.com/in/himaswinpolaboyena/)
-* 🌐 Portfolio: *Coming Soon*
-
----
-
-### 💡 Note to UWindsor Students
-
-If you’re a senior at the University of Windsor (graduated or about to graduate), feel free to reach out. I can share insights and resources that may benefit your career journey.
-For those I know personally, I can provide additional guidance I cannot disclose publicly.
-
-⚠️ Please include **JRLEH** in the subject line.
-⏰ Best to avoid evenings (6 PM – 11 PM), as I may not be available.
+## 📬 Let’s Connect!
+- 🎯 Open to **full-time & collaborative opportunities**  
+- 📧 [himaswinpolaboyena@gmail.com](mailto:himaswinpolaboyena@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/himaswinpolaboyena/)  
+- 🌐 Portfolio: *Coming Soon*  
 
 ---
 
 <p align="center">
 <em>Always open to connect, collaborate, and share knowledge! 🚀</em>
 </p>
-
----
-
