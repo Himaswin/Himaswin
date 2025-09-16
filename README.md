@@ -4,8 +4,8 @@ _AI Intern @ Glendor Inc_
 _Software Engineer | Computer Science Graduate_  
 
 ## 🎓 About Me
-I’m a Computer Science graduate from the **University of Windsor**, specializing in **Artificial Intelligence & Mathematics**.  
-I have hands-on experience with **C++, Python, Go, Rust, and AI/ML frameworks**.  
+I’m a Computer Science graduate from the **University of Windsor**, specializing in **Software Engineerig & Mathematics**.  
+I have hands-on experience with **Java, Javascript, Python, Go, Rust, and AI/ML frameworks**.  
 My interests span **AI, software systems, embedded programming, and full-stack development**.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himaswin&color=blueviolet&style=flat-square)
