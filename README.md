@@ -38,7 +38,7 @@ My interests span **AI, software systems, embedded programming, and full-stack d
 ---
 
 ## 💡 Notable Achievements
-- 🖥️ Developed **RIWA-2 system modules** at Tessonics Inc.  
+- 🖥️ Worked on prototype to de-identify PHI from brain MRIs at Glendor.  
 - ⚡ Packaged **TensorFlow, OpenCV, Dockerized modules** into Debian builds.  
 - 🤖 Built **AI Grading Assistant** (Django + React) with auto-evaluation.  
 - 📊 Created **Insurance Risk Prediction Model** (Python, ML).  
@@ -86,7 +86,7 @@ My interests span **AI, software systems, embedded programming, and full-stack d
 - 🎯 Open to **full-time & collaborative opportunities**  
 - 📧 [himaswinpolaboyena@gmail.com](mailto:himaswinpolaboyena@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/himaswinpolaboyena/)  
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio: https://himaswinpolaboyena.tech/
 
 ---
 
