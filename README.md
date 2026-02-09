@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Himaswin Polaboyena
 
-### 🚀 Full Stack Developer | AI Enthusiast | Software Engineering Student
+### 🚀 Software Developer | AI Enthusiast | Software Engineering graduate
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himaswin.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himaswinpolaboyena/)
