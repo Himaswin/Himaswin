@@ -14,8 +14,8 @@
 
 ## 🎓 About Me
 
-- 🎓 Computer Science (Honors) student | Software Engineering & Math Minor | Graduating Apr 2025
-- 💼 AI Intern @ **Glendor Inc** | Generative AI Trainer @ **Outlier**
+- 🎓 Computer Science (Honors) student | Software Engineering & Math Minor 
+- 💼 AI Intern @ **Glendor Inc** | Software Developer Intern @ **Whoolab** | Generative AI Trainer @ **Outlier**
 - 🌱 Building scalable applications with modern tech stacks
 - 💡 Passionate about AI/ML, Cloud Computing, and Full Stack Development
 
